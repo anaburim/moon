@@ -1,2 +1,2 @@
 # moon
-a smart landing for the travel agency
+a smart landing page for the travel agency, adaptive for all mobile devices.
